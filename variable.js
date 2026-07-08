@@ -23,3 +23,23 @@ console.log(isAge);
     console.log(aage);
 }
 console.log(aage);
+
+let price=100;
+let price2=200;
+let totalprice=price+price2;
+console.log(totalprice);
+
+
+let a=1;
+console.log(typeof a)
+console.log(typeof(a))
+
+console.log(typeof("2" + 2))
+console.log("2" - 2)
+
+let a1="2" + 2;
+let a2="5" - 5;
+
+console.log(a1, typeof a1)
+console.log(a2, typeof a2)
+
